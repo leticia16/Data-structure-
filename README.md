@@ -1,2 +1,2 @@
 # Data-structure-
-Projects developed at this discipline #(2018.2)
+Projects developed at this discipline (2018.2)
